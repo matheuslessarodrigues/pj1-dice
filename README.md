@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# lessa.codes/pj1-dice
 
-You can use the [editor on GitHub](https://github.com/matheuslessarodrigues/pj1-dice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Entregar [aqui](https://goo.gl/forms/NnrnmDNTeZ6nUbJf2)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## B4 AV2 - Partículas Fabulosas (3pts)
 
-### Markdown
+Peguem essa demo e taca-lhe partículas pra ficar maneirin.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A ideia é adicionar uma partícula (ou mais) de efeito pra quando o dado
+cai no chão. Por exemplo:
 
-```markdown
-Syntax highlighted code block
+- Fumacinha
+- Estrelinhas (ou quadradinhos girando também)
+- Faíscas
+- Outras coisas maneririnhas (a Unity é o limite!)
 
-# Header 1
-## Header 2
-### Header 3
+## Logística
 
-- Bulleted
-- List
+Grupos de 2 a 4 seres humanos
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matheuslessarodrigues/pj1-dice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Entregar [aqui](https://goo.gl/forms/NnrnmDNTeZ6nUbJf2) (link do seu repositório no github, pls)
